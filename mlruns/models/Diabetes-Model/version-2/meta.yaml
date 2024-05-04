@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1714730764428
+current_stage: None
+description: ''
+last_updated_timestamp: 1714730764428
+name: Diabetes-Model
+run_id: f720565617634514bf611c3d7fd897c0
+run_link: ''
+source: models:/Diabetes-Model/1
+status: READY
+status_message: null
+storage_location: file:///Users/fourofour/Professional/Jio-2024/JIO-MLOPS-24/Auto-Logging/Auto-Logging/mlruns/0/f720565617634514bf611c3d7fd897c0/artifacts/model
+user_id: null
+version: 2

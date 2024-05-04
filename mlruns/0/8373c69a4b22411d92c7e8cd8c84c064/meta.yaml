@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/fourofour/Professional/Jio-2024/JIO-MLOPS-24/Auto-Logging/Auto-Logging/mlruns/0/8373c69a4b22411d92c7e8cd8c84c064/artifacts
+end_time: 1714726856980
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8373c69a4b22411d92c7e8cd8c84c064
+run_name: polite-slug-424
+run_uuid: 8373c69a4b22411d92c7e8cd8c84c064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714726855490
+status: 3
+tags: []
+user_id: fourofour

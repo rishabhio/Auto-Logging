@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/446063747226187914/1618aeea56874cbfb7e00b80ddc3ef37/artifacts
+end_time: 1714731922781
+entry_point_name: ''
+experiment_id: '446063747226187914'
+lifecycle_stage: active
+run_id: 1618aeea56874cbfb7e00b80ddc3ef37
+run_name: persistent-gnat-816
+run_uuid: 1618aeea56874cbfb7e00b80ddc3ef37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714731920843
+status: 3
+tags: []
+user_id: fourofour

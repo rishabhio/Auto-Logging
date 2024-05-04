@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451129951168216863/d93fb5c0546a451fbadfc4f59dcb321e/artifacts
+end_time: 1714799755935
+entry_point_name: ''
+experiment_id: '451129951168216863'
+lifecycle_stage: active
+run_id: d93fb5c0546a451fbadfc4f59dcb321e
+run_name: Random Forest Experiment
+run_uuid: d93fb5c0546a451fbadfc4f59dcb321e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714799753969
+status: 3
+tags: []
+user_id: fourofour
